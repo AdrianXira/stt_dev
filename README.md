@@ -8,7 +8,7 @@ El servicio de transcripción Whisper es una aplicación basada en Flask que uti
 
 ![Static Badge](https://img.shields.io/badge/python-3.8.10-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/pip-23.3.1-blue?logo=pip)
-![GLP-3.0](LICENSE)
+[![GitHub License](https://img.shields.io/github/license/AdrianXira/stt_dev)](LICENCE)
 
 ## Installation
 
