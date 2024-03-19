@@ -6,10 +6,9 @@ El servicio de transcripción Whisper es una aplicación basada en Flask que uti
 
 ## Badges
 
-[![CI/CD](https://github.com/xiraDev/speech-to-text/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/xiraDev/speech-to-text/actions/workflows/deploy.yml) 
 ![Static Badge](https://img.shields.io/badge/python-3.8.10-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/pip-23.3.1-blue?logo=pip)
-[![Static Badge](https://img.shields.io/badge/License-MIT-green)](LICENCE)
+![GLP-3.0](LICENCE)
 
 ## Installation
 
@@ -18,9 +17,3 @@ para instalar este proyecto hay que posicionarse en la carpeta y ejecutar el sig
 ```bash
   bash install.sh
 ```
-    
-## Deployment
-
-Este proyecto cuenta con deploy automatico via Github Actions
-
-- [@AdrianXira](https://www.github.com/AdrianXira) 🤠
