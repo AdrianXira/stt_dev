@@ -16,6 +16,7 @@ fsspec
 gevent
 gevent-websocket
 greenlet
+gunicorn
 huggingface-hub
 humanfriendly
 idna
